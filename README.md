@@ -1,4 +1,10 @@
-# slack_mcp
+# 🇺🇦 HELP UKRAINE
+
+We fight for democratic values, for freedom, for our future. We need your support. 
+Solidarity with the Ukrainian people against the Russian invasion [Find out how you can help.](https://war.ukraine.ua/support-ukraine/).
+
+
+# SLACK MCP
 
 MCP server that reads Slack data via CDP and the Slack Web API.
 
