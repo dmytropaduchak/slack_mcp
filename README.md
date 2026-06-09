@@ -6,7 +6,7 @@ Solidarity with the Ukrainian people against the Russian invasion [Find out how 
 
 # SLACK MCP
 
-MCP server that reads Slack data via CDP and the Slack Web API. [OPENCODE](https://opencode.ai/go?ref=D0438CSYT3)
+MCP server that reads Slack data via CDP and the Slack Web API.
 
 ## Setup
 
@@ -49,3 +49,5 @@ cargo run
 | Variable | Default | Description |
 |---|---|---|
 | `SLACK_CDP_PORT` | `9222` | Slack DevTools debugging port |
+
+> made by [OPENCODE](https://opencode.ai/go?ref=D0438CSYT3)
